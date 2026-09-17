@@ -6,6 +6,15 @@ This repository contains my learning journey with **PyTorch** and **Deep Learnin
 I am learning PyTorch step by step, starting from the basics and gradually moving toward neural networks and real-world deep learning projects.
 
 ---
+## 📚 Learning Source
+
+### 🎥 YouTube – CampusX
+
+I am currently learning PyTorch through the CampusX YouTube tutorials.
+
+👉 [PyTorch for Beginners – Introduction to PyTorch | CampusX](https://youtu.be/QZsguRbcOBM)
+
+---
 
 ## 📚 Topics Covered
 
